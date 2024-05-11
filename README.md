@@ -1,3 +1,4 @@
+![Screenshot 2024-05-10 220938](https://github.com/Auosorio/Weekly_Planner/assets/166427475/4f3883d0-80a2-4045-92a5-9acb00893ab1)
 # Weekly_Planner
 • Who are the users of the software?
 high schoolers and up anyone with a busy schedule that wishes to keep things organized  

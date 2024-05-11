@@ -1,0 +1,5 @@
+Priority 1: drop kids off
+Priority 1: pick up kids at 2:00
+Priority 2: get groceries
+Priority 3: go to bank
+Priority 5: go christmas shopping
